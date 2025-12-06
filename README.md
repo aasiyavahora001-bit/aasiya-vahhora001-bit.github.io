@@ -48,16 +48,15 @@ Features include user-friendly navigation, organized product listings, and a cle
 ### 🔸 **Dermatology Club Website**
 Developed a responsive and accessible website for the Dermatology Club to showcase events, educational content, and student resources.  
 The project is not currently hosted, but a copy of the website files is included in this repository.  
-👉 **Project Files:** *(See “Final IT 240 Project 2.zip” in this repo)*
+👉 **Project Files:** https://aasiyavahora001-bit.github.io/DermaBeautyClubWebsite/gallery.html
 
 ### 🔸 **RingRingTech Website**
 Designed and developed the official website for RingRingTech, including layout customization, UI enhancements, and improved navigation.  
 👉 **Live Website:** https://ringringtech.com/
 
-### 🔸 **Shopify E-Commerce Website**
-Designed and developed a fully functional e-commerce store on Shopify.  
-Implemented secure payment integration, multilingual features, customized layouts, and optimized user experience.  
-👉 **Project Link:** *(Add live link if available)*
+### 🔸 **UMB Connect (Group Site)**
+Designed and developed a buy sell platform for students.  
+👉 **Project Link:** umbconnect.com
 
 ---
 
